@@ -1,0 +1,6 @@
+.env
+*.local
+.aider*
+*.swp
+*.swo
+.DS_Store
